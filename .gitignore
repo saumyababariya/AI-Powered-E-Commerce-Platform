@@ -1,0 +1,31 @@
+# dependencies
+node_modules/
+
+# production
+build/
+
+# environment
+.env
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# logs
+*.log
+
+# Spring Boot
+backend/target/
+
+# temporary files
+scratch/
+
+# archives
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
